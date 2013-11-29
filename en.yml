@@ -1,0 +1,662 @@
+en:
+  shop:
+    menu:
+      offres: Nos offres
+      edenManager: Fonctionnalités
+      news: News
+      forum: Forum
+      seConnecter: Se connecter
+      support: Aide
+      panel: Panel de gestion
+      langue:
+        fr: Français
+        en: English
+        de: Deutsch
+        es: Español
+  static_pages:
+    index:
+      revoluzione: Peanuts
+      decouvrer: Découvrez EdenServers
+      step1: Créez en quelques secondes votre compte, choisissez l'une de nos offres puis une minute plus tard ...
+      enjoy: Enjoy !
+      nosOffres: Découvrez nos offres
+      inscription: Inscrivez-vous
+      titre1: Prêt en un éclair
+      explication1: Commandez votre serveur et celui ci sera livré et prêt à l'utilisation en moins d'une minute.
+      explication1_1: Oubliez les temps de livraisons de plusieurs heures, avec notre nouvelle technologie de cloud vous êtes livré immédiatement.
+      titre2: Paiement simplifié
+      explication2: Le tarif de nos serveurs est compté en heures et non plus au mois.
+      explication2_1: L'utilisation d'un serveur n'a jamais été autant flexible.
+      explication2_2: Vous pouvez commander un nouveau serveur puis le supprimer quelques heures plus tard, sans surcoût et sans engagement.
+      titre3: Gestion en un clic
+      explication3: Vous souhaitez vous mettre à la gestion de serveur mais vous avez peut de ne rien y comprendre ?
+      explication3_1: "Nous savons que tous le monde n'est pas ingénieur en informatique, et partant de ce constat nous avons développé une fonctionnalité révolutionnaire : les scrolls."
+      explication3_2: A partir du panel de gestion vous pourrez choisir et installer en un clic le logiciel de votre choix. Plus besoin de commande compliquées à taper, nos  parchemins magiques s'occupent de tout.
+      lorem-paragraphe: Tous nos serveurs sont équipés de Xeon E5 quad-core à 3.6GHz ainsi que de 64Go de Ram pour vous garantir les meilleures performances possibles.
+      tonneFonctions: Et encore une tonne de fonctionnalités à découvrir
+      ready: Prêt à démarrer votre serveur ?
+      commencez: Commencez à développer vos projets dès maintenant !
+      inscrivezVous: Inscrivez-vous
+      followUs: Suivez-nous !
+      savoirPlus: En savoir plus
+      fonctionnalites:
+        panel: Panel de gestion moderne
+        paiement: Paiement par Paypal, Paysafecard et Allopass
+        livraison: Livraison en quelques minutes 24h/24
+        api: API de développement
+        hebergement: Installation de logiciels en un clic
+      news:
+        titre: Ne manquez pas nos dernières news
+        more: Plus de news
+        suite: Lire la suite
+      buy_error:
+        title: Impossible de commander
+        titre: Aïe !
+        sous_titre: Un problème vous empêche de commander cette leaf ou ce serveur
+        explication: Aucun crédit n'a été décompté de votre compte, nous vous invitons à retenter votre achat.
+        explication2: Si l'erreur persiste veuillez contacter notre support technique.
+    offres:
+      nosOffres: Nos offres
+      start: Commencez par choisir l'une de nos offres
+      then: Maintenant configurez votre futur serveur Minecraft
+      caracteristiques:
+        carac: Caractéristiques du serveur
+        ipPerso: IP personnalisée
+        tempsInstallation: Installation en quelques minutes
+        ssd: SSD
+        edenmanager: Panel de gestion
+        ram: Mémoire RAM
+        slots: Nombre de joueurs
+        duree: Durée de location
+      rupture:
+        texte: Nous n'avons actuellement plus aucune leaf en stock.
+        texte2: Nous vous invitons à revenir dans quelques heures le temps que nous puissions ajouter du stock supplémentaire.
+        rupture: Rupture de stock
+      processeur: PROCESSEUR
+      ram: RAM
+      cores: Coeurs
+      trafic: TRAFIC
+      espaceDisque: ESPACE DISQUE
+      produits:
+        cheap: Le moins cher !
+        classique: CLASSIQUE
+        debutant: DEBUTANT
+        confirme: CONFIRME
+        pro: PRO
+        ninja: NINJA
+        mensuel: Mensuel
+        heure: Par heure
+        comander: Commander
+      choisissezVotreLeaf: Choisissez votre future leaf
+      recommande: Recommandée
+      shinobi: Shinobi !
+      connaisseurs: Pour les connaisseurs
+      pro: Offre professionnelle
+      leafs:
+        prete: Prête en 1 minute, choisissez de la garder pour plusieurs heures ou plusieurs mois
+        chaqueLeaf: "Chaque leaf contient en plus :"
+        panelDeGestion: Panel de gestion
+        gerez: Gérez votre leaf en toute simplicité avec l'installation de logiciels en 1 clic
+        ssd_texte: Equipées de disque dur à mémoire flash, copier un fichier de plusieurs Go n'a jamais été aussi rapide
+        ssh_intro: Accès SSH
+        ssh_texte: Pour les 7rU3 r0><><0r, vous disposez d'un accès SSH en root à votre leaf équipée de Debian 7 64 bits
+        ip_intro: Une adresse IP
+        ip_texte: Vous disposez d'une adresse IP dédiée associée à votre leaf ainsi que d'une nom de domaine personalisé de type cequevousvoulez.edenservers.fr
+        connexion_intro: Connexion à 1Gb/s
+        connexion_texte: Téléchargez à la vitesse de l'éclair. En cas de dépassement de votre trafic mensuel vous ne payez ensuite que 0.02€ par Go !
+        api_texte: Pour les plus développeurs d'entre-vous une API de gestion pour vos leaf est disponible
+      jeux:
+        ttc: TTC
+        joueurs: Amis joueurs, nos serveurs de jeux sont toujours disponibles
+        clic: Cliquez sur un jeu pour découvrir nos offres
+        tooltipMinecraft: Avec cette config tu vas avoir un serveur qui pète !
+        tooltipSteam: Fire in the hole !
+        prix: Prix
+        caracteristiques:
+          minecraft:
+            carac1: Pas de limite au nombre de joueurs
+            carac2: Taille de la carte sans limite
+            carac3: Bukkit, FTB et Tekkit disponibles
+            carac4: Installation de plugins en 1 clic
+          steam:
+            carac1: CS:GO, Garry's Mod, Team Fortress 2 et CS:S
+            carac2: Changez de jeu comme vous le souhaitez
+            carac3: Accès FTP
+            carac4: Gestion des plugins
+      modal:
+        titreInscription: Inscription requise
+        texteInscription: Avant de pouvoir effectuer un achat sur EdenServers vous devez tout d'abord créer un compte sur le site. L'inscription ne prend que quelques secondes. Cliquez sur le bouton inscription pour créer votre compte.
+        inscription: Inscription
+        titreNotEnoughCash: Pas assez de crédit
+        texteNotEnoughCash: Vous ne possédez pas assez de crédit sur votre compte. L'achat d'une leaf requiert un minimum de 2.00€ de crédit sur votre compte. Vous pouvez cliquer sur le bouton ajouter du crédit afin de créditer votre compte.
+        texteNotEnoughCashJeux: Vous ne possédez pas assez de crédit sur votre compte. Vous pouvez cliquer sur le bouton ajouter du crédit afin de créditer votre compte.
+        crediterCompte: Ajouter du crédit
+        titreAchatLeaf: Validation avant achat
+        textAchatLeaf: Vous vous apprêter à commander une nouvelle leaf. Le crédit nécessaire à son fonctionnement vous serez prélevé toutes les heures. Vous avez la possibilité de supprimer votre leaf à tout moment en passant par le panel de gestion ou notre API. En cas de crédit insuffisant sur votre compte votre leaf sera supprimée automatiquement, faites donc bien attention de toujours avoir assez de crédit pour assurer son fonctionnement. Après achat, votre leaf vous sera ajoutée automatiquement, le délai d'installation pouvant prendre quelques minutes.
+        textAchatLeaf2: En cliquant sur le bouton acheter cette leaf vous reconnaissez accepter nos conditions générales de ventes ainsi que nos conditions générales d'utilisation.
+        textAchatJeux: Vous vous appêter à commander un serveur de jeux. Vous allez être débité de la somme de
+        textAchatJeux2: de crédit sur votre compte. Après achat votre serveur vous sera livré automatiquement en quelques minutes.
+        textAchatJeux3: En cas d'achat d'un serveur Steam, Counter-Strike:Source sera le jeu installé de base sur votre serveur. Vous aurrez ensuite la possibilité de changer de jeux autant de fois que vous le souhaitez.
+        textAchatJeux4: En cliquant sur le bouton acheter ce serveur vous reconnaissez accepter nos conditions générales de ventes ainsi que nos conditions générales d'utilisation.
+        achatLeaf: Acheter cette leaf
+        achatServeur: Acheter ce serveur
+        cgu: Conditions générales d'utilisation
+        cgv: Conditions générales de vente
+        oneMoreThing: "Oh ! Dernière petite chose, il nous faudrait un nom pour votre future leaf (ne pas mettre d'espaces ni d'accents) :"
+        nomLeaf: "Exemple : Boldo"
+    footer:
+      blog: Blog
+      contact: Contact
+      cgu: C.G.U
+      cgv: C.G.V
+      allRights: "© Copyright 2012-2013 | EdenServers. Tous droits reservés."
+  connexion:
+    connexion: Connexion
+    emailOuPseudo: Email ou pseudo
+    mdp: Mot de passe
+    mdpOublie: Mot de passe oublié
+    connexionFacebok: Connexion avec Facebook
+    connexionTwitter: Connexion avec Twitter
+    connexionGithub: Connexion avec Github
+    connexionSteam: Connexion avec Steam
+    pasDeCompte: Vous n'avez pas de compte ?
+    creerCompte: Créer un compte
+    erreurDeConnexion: Erreur de connexion !
+    verifiez: Vérifiez votre email, pseudo ou mot de passe ou utilisez la fonction mot de passe oublié.
+    enregistrement: Enregistrement
+    pseudo: Nom d'utilisateur *
+    email: Email *
+    password: Mot de passe *
+    passwordConfirmation: Confirmez votre mot de passe *
+    nom: Nom
+    prenom: Prénom
+    adresse: Adresse
+    codePostal: Code postal
+    ville: Ville
+    pays: Pays
+    dejaEnregistre: Vous possédez déjà un compte ?
+    insctructionsMdpOublie: Envoyer les instruction de modification du mot de passe
+    mdpRevenu: Vous avez finalement retrouvé votre mot de passe ?
+    obligatoire: "* : A remplir obligatoirement"
+  panel:
+    header:
+      parametres: Paramètres
+      deco: Déconnexion
+      retourSite: Retour au site
+    services:
+      type: Type
+    breadcrumbs:
+      dashboard: Dashboard
+    choixService:
+      choisirService: Choisir un service
+    dashboard:
+      commandes:
+        actions: Actions
+        eteindre: Eteindre
+        redemarrer: Redémarrer
+        console: Console
+        demarrer: Démarrer
+      infosServeur: Informations sur la leaf
+      dernierTweets: Nos derniers tweets
+      date: Date
+      event: Evenement
+      ip: IP
+      bukkit: .jar utilisant Bukkit
+      oui: Oui
+      non: Non
+      map: Map
+      finAbo: Fin de l'abonnement
+      renouveler: Renouveler
+      augmenter: Augmenter la taille
+      motDePasseRoot: Mot de passe root
+      genererMdp: Changer le mot de passe
+      utilisationCpu: Charge du processeur
+      utilisationRam: Charge de la RAM
+      erreur:
+        serveurDown: Serveur injoignable
+        msgServeurDown: Votre serveur ne fonctionnne actuellement pas. Si vous venez de le commander patientez quelques minutes le temps de son installation. Dans le cas contraire tentez de le redémarrer ou de le réinstaller.
+        operationEncours: "Une opération est en cours sur votre leaf :"
+      modalMdp:
+        titreModal: Changer de mot de passe root
+        texteModal: "Entrez le nouveau mot de passe root :"
+        modifier: Modifier
+    navigation:
+      console: Console
+      plugins: Plugins
+      scrolls: Scrolls
+      services: Services
+      support: Support
+      facturation: Facturation
+      api: API
+      backup: Sauvegardes
+      monitoring: Statistiques
+    console:
+      sendCommand: Envoyer une commande
+      entrerCommande: Entrez ici la commande à envoyer
+      envoyer: Envoyer
+    player:
+      joueurs: Joueurs
+      connectes: Joueurs connectés
+      avatar: Avatar
+      pseudo: Pseudo
+      actions: Actions
+      op: Mettre OP
+      kick: Kicker
+      operateur: Opérateurs
+      bannis: Joueurs bannis
+      whitelist: Joueurs whitelistés
+      ban: Bannir
+      deOp: Retirer les droits d'opérateur
+      addOp: Ajouter
+      entrerNom: Entrez le nom du joueur
+      debannir: Débannir
+      ajouterWhitelist: Ajouter
+      retirer: Retirer
+    plugins:
+      pluginsInstalle: Plugins installés
+      nouveauPlugins: Installer un nouveau plugin
+      description: Description
+      entrerNomPlugin: Entrez le nom du plugin à installer
+      version: Version
+      siteWeb: Site Web
+    scrolls:
+      annonce: Que souhaitez-vous faire ?
+      jouer: Jouer
+      developer: Développer
+      heberger: Héberger
+      installes: Voir les scrolls installés
+      telecharger: Télécharger
+      rechercher: Rechercher
+      entrezNomScroll: Entrez le nom du scroll à rechercher
+      installation:
+        informations: Informations d'installation
+        installing: Installation en cours...
+        installed: Installé
+      categories:
+        installerUnScroll: Liste des scrolls
+        plusInfos: Plus d'infos
+        installer: Installer
+      modal:
+        fermer: Fermer
+        dependances: Dépendances
+        consoCpu: Consommation CPU
+        consoRam: Consommation RAM
+        skill: Difficulté d'utilisation
+        level:
+          low: Faible
+          medium: Moyenne
+          high: Elevée
+    notifications:
+      notifications: notifications
+      suppressionLeaf: Votre leaf a bien été supprimée.
+      vousAvez: Vous avez
+      arret: Votre leaf a bien été arrêtée.
+      start: Votre leaf a bien été démarée.
+      reboot: Votre leaf a bien été redémarée.
+      changePassword: Le mot de passe de votre leaf a bien été modifié.
+    api_doc:
+      intro: Bienvenue sur la page dédiée à l'API de développement d'EdenServers. Cette page est réservée aux utilisateurs avancés et aux développeurs. Toutes les méthodes présentés sur cette page doivent être utilisées avec le verbe http GET. Les réponses sont toutes fournies en JSON.
+      votreUserId: "Votre identifiant utilisateur :"
+      votreApi: "Votre clé API :"
+      documentation: "Documentation :"
+      reponse: "Exemple de réponse :"
+      urlRequete: "URL de requête :"
+      parametres: "Paramètres :"
+      leafs:
+        leafs:
+          titre: Affiche la liste de vos leafs
+          explication: Cette méthode vous permet de récupérer la liste de vos leafs ainsi que les informations en temps réel pour chacune d'entre elle.
+        id:
+          titre: Afficher les informations d'une leaf
+          explication: Cette méthode vous permet de récupérer les informations d'une leaf en particulier.
+          parametres:
+            leaf_id: "leaf_id:"
+            numero: Numéro d'identification de la leaf
+        reboot:
+          titre: Redémarrer la leaf
+          explication: Cette méthode vous permet de redémarrer votre leaf.
+        power_on:
+          titre: Allumer la leaf
+          explication: Cette méthode vous permet d'allumer votre leaf.
+        power_off:
+          titre: Eteindre la leaf
+          explication: Cette méthode vous permet d'éteindre votre leaf.
+        destroy:
+          titre: Supprimer la leaf
+          explication: Cette méthode vous permet de supprimer votre leaf.
+        reset:
+          titre: Remettre à zero votre leaf
+          explication: Cette méhode permet de supprimer toutes les données de votre leaf et de la restaurer dans son état initial.
+        types:
+          titre: Afficher les différents types de leaf
+          explication: Cette méthode vous permet d'afficher les difféerent types de leaf disponibles sur EdenServers
+        create:
+          titre: Commander une nouvelle leaf
+          explication: Cette méthode vous permet de commander une nouvelle leaf
+          parametres:
+            leaf_type_id: "leaf_type_id:"
+            leaf_type: Numéro d'identification du type de leaf
+      scrolls:
+        scrolls:
+          titre: Afficher les scrolls qu'il est possible d'installer
+          explication: Cette méthode permet de récupérer les informations de tous les scrolls qu'il est possible d'installer.
+        id:
+          titre: Afficher les information d'un scroll
+          explication: Cette méthode vous permet de récupérer les informations d'un scroll en particulier.
+          parametres:
+            scroll: Numéro d'identification du scroll
+            scroll_id: "scroll_id:"
+        categories:
+          titre: Afficher les catégories de scrolls
+          explication: Cette méthode vous permet de récupérer la liste des catégories de scrolls disponibles.
+        cat_id:
+          titre: Afficher les scrolls dans une catégorie
+          explication: Cette méthode vous permet de récupérer la liste des scrolls dans une catégorie.
+          parametre:
+            category_id: "category_id:"
+            category: Numéro d'identification de la catégorie
+      notifications:
+        notifications:
+          titre: Afficher les notifications
+          explication: Cette méthode vous permet d'afficher la liste des notifications non lues.
+        id:
+          titre: Afficher une notification
+          explication: Cette méthode vous permet d'afficher les informations d'une notification en particulier.
+          parametre:
+            notification_id: "notification_id:"
+            notification: Numéro d'identification de la notification
+        create:
+          titre: Créer une notification
+          explication: Crée une notification qui sera affiché dans le panel de gestion.
+          parametre:
+            message: "message:"
+            message_explication: Chaîne de texte contenant le message
+        read:
+          titre: Marquer les notification comme lues
+          explication: Cette méthode vous permet de marquer toutes les notifications non lues comme lues.
+    facturation:
+      hourCost: Coût horaire
+      credit: Crédit
+      monthcost: Coût mensuel
+      services: Vos services en cours
+      factures: Vos factures
+      addCredit: Ajouter du crédit
+      ajouter: Ajouter
+      leaf: Leaf de
+      cliquezLogo: "Cliquez sur le logo du moyen de paiement que vous souhaitez utiliser :"
+      ajouterAvecPaypal: Ajouter du crédit avec PayPal
+      commander: Commander un nouveau service
+      modalPaypal:
+        choisissez: "Choisissez le montant de crédit à ajouter :"
+        cliquantSur: En cliquant sur "Ajouter" vous serez redirigé sur le site de PayPal à partir duquel vous pourrez effectuer votre paiement. La procédure peut prendre plusieurs minutes avant que votre crédit ne soit ajouté à votre compte.
+      allopass:
+        notification1: Un crédit de
+        notification2: fait par allopass a été ajouté sur votre compte.
+      paypal:
+        description1: EUR de credit EdenServers
+      tabServices:
+        typeProduit: Type de produit
+        tarifHoraire: Tarif horaire
+        tarifMensuel: Tarif mensuel
+        annulerService: Résilier le service
+        resilier: Résilier
+    try:
+      noService: Vous ne possédez actuellement aucun service
+      texteNoService: Vous pouvez commander un nouveau service en accédant à notre page d'
+      offres: offres.
+      textenoService2: N'oubliez pas de créditer votre compte en passant par la page
+      facturation: facturation.
+    api_down:
+      titre: Oups !
+      sousTitre: Notre API ne fonctionne plus
+      corriger: Notre équipe corrige actuellement le problème. Vous pouvez suivre l'avancement sur Twitter.
+      twitter: Accéder à Twitter
+    monitoring:
+      statsCpu: Statistiques d'utilisation du processeur
+      statsRam: Statistiques d'utilisation de la mémoire RAM
+      heure: Heure
+      jour: Jour
+      semaine: Semaine
+      mois: Mois
+  tuto:
+    dashboard:
+      step1: Bienvenue sur le panel de gestion de votre serveur ! Nous vous conseillons de suivre cette petite visite guidée du panel afin de tirer le plein potentiel de votre leaf. Dans la suite de cette visite guidée nous utiliserons le terme de leaf, c'est simplement le petit nom que nous avons trouvé pour nommer nos serveurs ;) Cliquez sur next ou appuyez sur la flèche droite de votre clavier pour continuer.
+      step2: Vous trouverez ce petit bouton d'aide présent sur toutes les pages du panel de gestion. N'hésitez pas à cliquer dessus pour obtenir de l'aide.
+      step3: Vous vous trouvez actuellement sur ce que nous appelons le dashboard, le tableau de bord de votre leaf.
+      step4: Le tableau de bord vous permet de démarrer, d'arrêter ou de redémarrer votre leaf.
+      step5: Il vous permet également de suivre en temps réel la charge en Ram ou processeur de votre leaf, d'afficher les éventuels messages d'erreur ou les opérations en cours sur votre leaf.
+      step6: Le dashboard vous permet également d'avoir un récapitulatif des informations de votre leaf.
+      step7: Vous y trouverez l'adresse IP permettant, si vous en avez les compétences, de vous y connecter en SSH.
+      step8: Vous pouvez également modifier directement le mot de passe root (root signifie administrateur).
+      step9: Pour terminer, le dashboard affiche en temps réel nos dernières informations en provenance de Twitter. En cas de soucis avec votre leaf n'hésitez pas à vous rendre sur notre page twitter pour vérifier que nous n'avons pas un problème technique. Vous pouvez aussi vous y rendre et nous envoyer un petit message, nous sommes toujours content d'en recevoir.
+      step10: Le panel de getion vous permet de changer de leaf ou de serveur de jeu afin d'accéder à ses options de gestion.
+      step11: De voir les notifications qui vous ont été envoyées.
+      step12: Ainsi que de changer de langue.
+      step13: En cliquant ici vous accéderez à un menu vous permettant de retourner sur le site principal, d'accéder à notre blog de news, à notre forum ou de modifier vos paramètres.
+      step14: La visite du dashboard est terminée mais nous souhaiterions vous faire visiter les autres pages du panel. Prêt à continuer ? Cliquez sur next page ou appuyez sur la flèche droite de votre clavier pour continuer.
+    scrolls:
+      categories:
+        step1: La page de scrolls vous permet d'installer sur votre leaf, en un clic, tout un tas de logiciels pour lesquels il faudrait plusieurs heures d'installation à un utilisateur expérimenté. Les scrolls sont regroupés en catégories.
+        step2: Dans la catégorie 'Jouer' vous trouverez les logiciels vous permettant d'installer divers serveurs de jeu (Minecraft, Counter-Strike, ...)
+        step3: La catégorie 'Héberger' contient les logiciels permettant de mettre en ligne un site web (Apache, PHP, ...)
+        step4: La catégorie 'Développer' permet aux développeurs d'installer en quelques clics un environnement de développement sur leur leaf.
+        step5: La catégorie 'Télécharger' contient de nombreux logiciels de téléchargement pour votre leaf (client torrent, newsgroup, ...).
+        step6: Vous pouvez également consulter la liste des scrolls installés sur votre leaf
+        step7: Ainsi que rechercher un scroll en particulier à installer
+      liste:
+        step1: Cette page vous permet d'installer des logiciels sur votre leaf. Chaque logiciel possède des informations qui lui sont propres.
+        step2: Vous pouvez y trouver le numéro de version du logiciel,
+        step3: sa description,
+        step4: ainsi que des informations détaillés en cliquant sur le bouton "Plus d'infos"
+        step5: Cliquez sur le bouton 'Installer' afin d'installer le logiciel. Attention il se peut que cela ne fonctionne pas sur certains navigateurs web ancien ou certains navigateurs sous smartphone, dans ce cas nous vous conseillons de tenter l'installation avec un autre navigateur web.
+    monitoring:
+      step1: La page de statistiques vous permet d'obtenir les informations en temps réel de la consommation en processeur et ram de votre leaf.
+      step2: Vous pouvez suivre la consommation détaillée d'un scroll par heure, jour, semaine et mois.
+    facturation:
+      step1: La page facturation vous permet d'obtenir de façon détaillée le coût de vos différents services sur EdenServers.
+      step2: Le coût horaire prend en compte uniquement le coût de vos leafs. Les serveurs de jeux ne sont pas inclus dedans.
+      step3: Le coût total prend en compte le coût de vos leafs mais également de vos serveurs de jeux.
+      step4: Vous pouvez obtenir de façon détaillée le côut de vos différents services dans ce tableau.
+      step5: Vous pouvez cliquer sur résilier afin de supprimer immédiatement une leaf. Attention cependant l'opération supprimera toutes vos données et ces dernières ne seront pas récupérables.
+      step6: Pour ajouter du crédit sur votre compte cliquez sur le logo de paiement de votre choix.
+      step7: Vous pouvez consulter ici vos différentes factures.
+      step8: Si vous suivez la visite guidée depuis le début c'est ici qu'elle s'achève. Nous vous remercions d'avoir suivi cette visite, en espérant que cette dernière vous aura aider à tirer le maximum de votre leaf.
+  date:
+    abbr_day_names:
+    - dim
+    - lun
+    - mar
+    - mer
+    - jeu
+    - ven
+    - sam
+    abbr_month_names:
+    -
+    - jan.
+    - fév.
+    - mar.
+    - avr.
+    - mai
+    - juin
+    - juil.
+    - août
+    - sept.
+    - oct.
+    - nov.
+    - déc.
+    day_names:
+    - dimanche
+    - lundi
+    - mardi
+    - mercredi
+    - jeudi
+    - vendredi
+    - samedi
+    formats:
+      default: '%d/%m/%Y'
+      long: '%e %B %Y'
+      short: '%e %b'
+    month_names:
+    -
+    - janvier
+    - février
+    - mars
+    - avril
+    - mai
+    - juin
+    - juillet
+    - août
+    - septembre
+    - octobre
+    - novembre
+    - décembre
+    order:
+    - :day
+    - :month
+    - :year
+  datetime:
+    distance_in_words:
+      about_x_hours:
+        one: environ une heure
+        other: environ %{count} heures
+      about_x_months:
+        one: environ un mois
+        other: environ %{count} mois
+      about_x_years:
+        one: environ un an
+        other: environ %{count} ans
+      almost_x_years:
+        one: presqu'un an
+        other: presque %{count} ans
+      half_a_minute: une demi-minute
+      less_than_x_minutes:
+        one: moins d'une minute
+        other: moins de %{count} minutes
+        zero: moins d'une minute
+      less_than_x_seconds:
+        one: moins d'une seconde
+        other: moins de %{count} secondes
+        zero: moins d'une seconde
+      over_x_years:
+        one: plus d'un an
+        other: plus de %{count} ans
+      x_days:
+        one: '%{count} jour'
+        other: '%{count} jours'
+      x_minutes:
+        one: '%{count} minute'
+        other: '%{count} minutes'
+      x_months:
+        one: '%{count} mois'
+        other: '%{count} mois'
+      x_seconds:
+        one: '%{count} seconde'
+        other: '%{count} secondes'
+    prompts:
+      day: Jour
+      hour: Heure
+      minute: Minute
+      month: Mois
+      second: Seconde
+      year: Année
+  errors:
+    format: '%{attribute} %{message}'
+    messages:
+      accepted: doit être accepté(e)
+      blank: doit être rempli(e)
+      confirmation: ne concorde pas avec la confirmation
+      empty: doit être rempli(e)
+      equal_to: doit être égal à %{count}
+      even: doit être pair
+      exclusion: n'est pas disponible
+      greater_than: doit être supérieur à %{count}
+      greater_than_or_equal_to: doit être supérieur ou égal à %{count}
+      inclusion: n'est pas inclus(e) dans la liste
+      invalid: n'est pas valide
+      less_than: doit être inférieur à %{count}
+      less_than_or_equal_to: doit être inférieur ou égal à %{count}
+      not_a_number: n'est pas un nombre
+      not_an_integer: doit être un nombre entier
+      odd: doit être impair
+      record_invalid: 'La validation a échoué : %{errors}'
+      taken: n'est pas disponible
+      too_long:
+        one: est trop long (pas plus d'un caractère)
+        other: est trop long (pas plus de %{count} caractères)
+      too_short:
+        one: est trop court (au moins un caractère)
+        other: est trop court (au moins %{count} caractères)
+      wrong_length:
+        one: ne fait pas la bonne longueur (doit comporter un seul caractère)
+        other: ne fait pas la bonne longueur (doit comporter %{count} caractères)
+    template:
+      body: 'Veuillez vérifier les champs suivants : '
+      header:
+        one: 'Impossible d''enregistrer ce(tte) %{model} : %{count} erreur'
+        other: 'Impossible d''enregistrer ce(tte) %{model} : %{count} erreurs'
+  helpers:
+    select:
+      prompt: Veuillez sélectionner
+    submit:
+      create: Créer un(e) %{model}
+      submit: Enregistrer ce(tte) %{model}
+      update: Modifier ce(tte) %{model}
+  number:
+    currency:
+      format:
+        delimiter: ' '
+        format: '%n %u'
+        precision: 2
+        separator: ','
+        significant: false
+        strip_insignificant_zeros: false
+        unit: €
+    format:
+      delimiter: ' '
+      precision: 3
+      separator: ','
+      significant: false
+      strip_insignificant_zeros: false
+    human:
+      decimal_units:
+        format: '%n %u'
+        units:
+          billion: milliard
+          million: million
+          quadrillion: million de milliards
+          thousand: millier
+          trillion: billion
+          unit: 
+      format:
+        delimiter: 
+        precision: 2
+        significant: true
+        strip_insignificant_zeros: true
+      storage_units:
+        format: '%n %u'
+        units:
+          byte:
+            one: octet
+            other: octets
+          gb: Go
+          kb: ko
+          mb: Mo
+          tb: To
+    percentage:
+      format:
+        delimiter: 
+    precision:
+      format:
+        delimiter: 
+  support:
+    array:
+      last_word_connector: ' et '
+      two_words_connector: ' et '
+      words_connector: ', '
+  time:
+    am: am
+    formats:
+      default: '%d %B %Y %H:%M:%S'
+      long: '%A %d %B %Y %H:%M'
+      short: '%d %b %H:%M'
+    pm: pm
