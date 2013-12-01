@@ -224,6 +224,13 @@ fr-FR:
       utilisationRam: Charge de la RAM
       changerVersion: Changer de version
       changerMap: Changer de map
+      accessFtp: Accès FTP
+      accederFtp: Accéder au FTP
+      ftpModal:
+        explications: Voici les informations vous permettant de vous connecter au FTP de votre serveur. Pour vous y connecter nous vous conseillons d'utiliser le logiciel
+        serveur: "Serveur : "
+        username: "Nom d'utilisateur : "
+        mdp: "Mot de passe : "
       erreur:
         serveurDown: Serveur injoignable
         msgServeurDown: Votre serveur ne fonctionnne actuellement pas. Si vous venez de le commander patientez quelques minutes le temps de son installation. Dans le cas contraire tentez de le redémarrer ou de le réinstaller.
