@@ -192,6 +192,7 @@ fr-FR:
       deco: Déconnexion
       retourSite: Retour au site
     services:
+      status: Status
       type: Type
     breadcrumbs:
       dashboard: Dashboard
